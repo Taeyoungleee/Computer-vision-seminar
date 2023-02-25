@@ -9,3 +9,5 @@
 ## ⌚ 스터디 기간
 * 23.01.19일 ~ 23.03.
 
+## 딥러닝으로 분류한 객체
+![사진 예시](https://user-images.githubusercontent.com/113446739/221364003-bbce6abb-2978-4bcc-b4e1-687af3cb0d76.png)
