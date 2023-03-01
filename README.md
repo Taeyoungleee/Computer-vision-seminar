@@ -14,7 +14,7 @@
 
 
 ## ⛳️ 딥러닝으로 분류한 객체
-![사진 예시](https://user-images.githubusercontent.com/113446739/221364003-bbce6abb-2978-4bcc-b4e1-687af3cb0d76.png)<br>
+![메인 배경](https://user-images.githubusercontent.com/113446739/222047569-a3685baf-149d-48e4-9a7a-99f524a88fad.JPG)<br>
 세 종류의 이미지 dolphin, shark, whale 3가지 동물을 분류하는 실습을 진행해보았습니다.<br>
 위 프로젝트를 진행하며 딥러닝의 기초인 CNN도 더 확실하게 이해하고, 다양한 코드도 짜보는 기회가 되었습니다.<br>
 기존에 한번도 사용해보지 못했던 파이토치 클래스도 직접 짜서 사용해보고 라이브러리를 활용해보는 등 파이토치도 공부할 수 있었습니다.<br>
